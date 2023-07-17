@@ -60,10 +60,3 @@ Note: it will display an ascii design of "game over" if it is wrong. It should l
 
     GAME OVER! Better luck next time!
 ```
-
-# guessgame
-
-# guessgame
-
-# guessgame
-# guessgame
